@@ -4,7 +4,5 @@ A WIP libGDX Platformer game where you jump with rockets.
 
 Plans:
 
-1. Centered around multiplayer 1v1s
-2. All Web-Based
-3. 3 Weapons: Rocket (no damage, just for jumping), Plasma Rifle (bouncy!), Rifle (Hitscan)
-4. Use a roomcode system like .io games
+1. Side-scrolling platformer with the goal to get the best time possible
+2. Accessible through website (GWT)
